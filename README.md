@@ -42,13 +42,18 @@ The **Sales Data Analysis and Reporting** project aims to provide a deep underst
 ### **Power BI Dashboard**
 Below is a snapshot of the Power BI dashboard created to visualize the sales data:
 
+![Screenshot 2024-08-28 000355](https://github.com/user-attachments/assets/1f381293-1e75-48e0-8b27-11c3727fbfb1)
+
 ![Screenshot 2024-08-28 000415](https://github.com/user-attachments/assets/59cf7209-a23e-4864-a808-c76c86c80a52)
 
 
-### **Project Demonstration Video**
-Watch the demonstration video of the project, where I walk through the entire analysis and dashboard insights:
+### **Excel Dashboard**
+Below is a snapshot of the Excel dashboard created to visualize the sales data:
+![Screenshot 2024-08-30 161244](https://github.com/user-attachments/assets/b7f4549e-2514-4dff-84d4-e06022568ed3)
 
-[Watch the Project Demo](URL_to_video)
+![Screenshot 2024-09-19 225730](https://github.com/user-attachments/assets/8e3cd63f-b05a-4c5c-ae00-49798af65c52)
+
+
 
 ## **Tools and Technologies Used**
 - **Python:** For data manipulation, statistical analysis, and visualization.
