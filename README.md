@@ -1,6 +1,7 @@
-# **Sales Data Analysis and Reporting  for a Retail**
 
-Welcome to the final project of my internship: **Sales Data Analysis and Reporting  for a Retail** using **Python, SQL, Excel, and Power BI**. This project showcases a comprehensive approach to analyzing retail sales data, leveraging a combination of tools and techniques to derive actionable insights and support data-driven decision-making.
+# **Sales Data Analysis and Reporting for a Retail Chain**
+
+Welcome to the final project of my internship: **Sales Data Analysis and Reporting for a Retail Chain** using **Python, SQL, Excel, and Power BI**. This project showcases a comprehensive approach to analyzing retail sales data, leveraging a combination of tools and techniques to derive actionable insights and support data-driven decision-making.
 
 ## 🌟 **Project Overview**
 The **Sales Data Analysis and Reporting** project aims to provide a deep understanding of customer behavior and sales performance for a retail chain. Utilizing Python for statistical analysis and data manipulation, SQL for efficient data querying, and Excel and Power BI for dynamic visualization, this project offers a multifaceted view of the sales data, enabling informed decisions on inventory management, marketing strategies, and growth opportunities.
@@ -36,6 +37,19 @@ The **Sales Data Analysis and Reporting** project aims to provide a deep underst
 - **Customer Recency Analysis:** Analyzed most recent and oldest purchase dates for customers.
 - **Segment Analysis:** Evaluated sales distribution across various customer segments.
 
+## **Results and Visualizations**
+
+### **Power BI Dashboard**
+Below is a snapshot of the Power BI dashboard created to visualize the sales data:
+
+![Screenshot 2024-08-28 000415](https://github.com/user-attachments/assets/59cf7209-a23e-4864-a808-c76c86c80a52)
+
+
+### **Project Demonstration Video**
+Watch the demonstration video of the project, where I walk through the entire analysis and dashboard insights:
+
+[Watch the Project Demo](URL_to_video)
+
 ## **Tools and Technologies Used**
 - **Python:** For data manipulation, statistical analysis, and visualization.
 - **SQL:** For database setup, querying, and advanced analysis.
@@ -50,4 +64,6 @@ Thank you for your time and consideration.
 ---
 
 **Soumya Kumar Choulager**  
-📧 soumya.kc02@gmail.com  
+📧 soumya.kc02@gmail.com
+
+---
